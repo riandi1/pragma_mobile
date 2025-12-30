@@ -51,3 +51,4 @@ El proyecto puede mejorarse aplicando patrones de diseño más robustos como Cle
 ## Autor
 
 Prueba técnica desarrollada en Flutter para el proceso de selección de Pragma.
+
